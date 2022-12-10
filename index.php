@@ -35,7 +35,7 @@
     <header id="header">
         <div class="container">
 
-            <h1><a href="">Kushal Mukherjee</a></h1>
+            <h1><a href="index.php">Kushal Mukherjee</a></h1>
             <h2>I'm a passionate <span>web developer</span> from India.</h2>
 
             <nav id="navbar" class="navbar">
