@@ -1,3 +1,4 @@
+<?php include 'forms/contact.php'?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,9 +6,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Kushal Mukherjee || Professional Developer</title>
+    <title>Kushal Mukherjee || Professional Web Developer</title>
     <meta content="Kushal-Portfolio" name="description">
-    <meta content="Kushal" name="keywords">
+    <meta content="Best Professional Web Developer For You" name="keywords">
 
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
