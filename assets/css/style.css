@@ -1011,14 +1011,15 @@ section .container {
 # Contact
 --------------------------------------------------------------*/
 .contact .info-box {
-  color: #444444;
   padding: 55px;
   width: 100%;
   background: rgba(255, 255, 255, 0.08);
+  transition: all 0.3s;
 }
 
 .contact .info-box:hover{
-  background: #18d26f34;
+  background: #f9ffe552;
+  transition: all 0.3s;
 }
 
 .contact .info-box i.bx {
