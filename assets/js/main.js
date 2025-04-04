@@ -237,8 +237,8 @@ let text2 = document.getElementById('0102');
 let text3 = document.getElementById('0103');
 let text4 = document.getElementById('0104');
 const load = () => {
-    animate(text1, 0, 70, 7000);
-    animate(text2, 0, 120, 7000);
-    animate(text3, 0, 12, 7000);
-    animate(text4, 0, 3, 7000);
+    animate(text1, 0, 80, 7000);
+    animate(text2, 0, 158, 7000);
+    animate(text3, 0, 24, 7000);
+    animate(text4, 0, 6, 7000);
 }

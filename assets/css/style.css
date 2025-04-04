@@ -206,13 +206,6 @@ h6 {
   position: relative;
 }
 
-.navbar #mobile-menu {
-  position: relative;
-  font-size: large;
-  bottom: 5px;
-  left: 5px;
-}
-
 .navbar li+li {
   margin-left: 30px;
 }
@@ -1073,30 +1066,6 @@ section .container {
 
 .contact .info-box .social-links a:hover {
   color: #18d26e;
-}
-
-/*--------------------------------------------------------------
-# Credits
---------------------------------------------------------------*/
-.credits {
-  position: fixed;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  padding: 15px;
-  text-align: right;
-  font-size: 13px;
-  color: #fff;
-  z-index: 999999;
-}
-
-.credits a {
-  color: #18d26e;
-  transition: 0.3s;
-}
-
-.credits a:hover {
-  color: #fff;
 }
 
 /*--------------------------------------------------------------
